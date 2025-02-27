@@ -1,4 +1,4 @@
-#
+# idea was done by Mathieu Dijkstra under open source license!
 # i emagen that there is a sphere the core emotions at the outher edg and in the center neutral. radius is 100 of that spere. 
 # so like 
 #  "joy": "sadness" right and left
