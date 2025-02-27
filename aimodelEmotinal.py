@@ -1,13 +1,13 @@
 # idea was done by Mathieu Dijkstra under open source license!
 # i emagen that there is a sphere the core emotions at the outher edg and in the center neutral. radius is 100 of that spere. 
 # so like 
-#  "joy": "sadness" right and left
-#  "anger": "trust" front and back
-#  "fear": "anticipation" up and down
-#  "disgust": "surprise", also some where in that spere.
+#  "joy": "sadness" outher right and outher left
+#  "anger": "trust" outher front and outher back
+#  "fear": "anticipation" outher up and outher down
+#  "disgust": "surprise", also some where in that spere outher .
 # so for every emotion there is a position (perfect at same distances from eachother.
 # also like Neuro Languistic Programing there is a modalitie for what must ly close to eachoter
-# this is just the chat wit a ai not realey yet worked out  but its just a core idea!!!!
+# this is just the chat with a ai not realey yet worked out  but its just a core idea!!!!
 #
 # using this sphere is by positioning a point in that spere where the human is most likley at
 # 
