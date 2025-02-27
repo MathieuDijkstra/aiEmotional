@@ -5,9 +5,13 @@
 #  "anger": "trust" front and back
 #  "fear": "anticipation" up and down
 #  "disgust": "surprise", also some where in that spere.
-# so for every emotion there is a position.
+# so for every emotion there is a position (perfect at same distances from eachother.
 # also like Neuro Languistic Programing there is a modalitie for what must ly close to eachoter
 # this is just the chat wit a ai not realey yet worked out  but its just a core idea!!!!
+#
+# using this sphere is by positioning a point in that spere where the human is most likley at
+# 
+# for audio(hearing), video(seeing), typing(typing speed changes) & mouse, feeling in the future. every modal has a own spehere. by add the speres together they get a visual (location in the spere) what emotion the human is for better understanding hem/her!!! 
 #
 # for making future robots AI that understand hamans more!
 #
