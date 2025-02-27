@@ -1,3 +1,16 @@
+#
+# i emagen that there is a sphere the core emotions at the outher edg and in the center neutral. radius is 100 of that spere. 
+# so like 
+#  "joy": "sadness" right and left
+#  "anger": "trust" front and back
+#  "fear": "anticipation" up and down
+#  "disgust": "surprise", also some where in that spere.
+# so for every emotion there is a position.
+# also like Neuro Languistic Programing there is a modalitie for what must ly close to eachoter
+# this is just the chat wit a ai not realey yet worked out  but its just a core idea!!!!
+#
+# for making future robots AI that understand hamans more!
+#
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
